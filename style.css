@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.button{
+    width: 50;
+    height: 50;
+    font-size: 20;
+    margin: 2;
+    cursor: pointer;
+}
+.textview{
+    width: 217;
+    margin: 5;
+    font-size: 25;
+    padding: 5;
+
+}
+.lika{
+    height: 107;
+}
+.noll{
+    width: 106;
+}
